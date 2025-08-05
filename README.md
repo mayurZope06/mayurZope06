@@ -70,9 +70,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Teacher
-Shradha Khapra
-
-# Student 
-Mayur Zope
