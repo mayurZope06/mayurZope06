@@ -71,3 +71,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Teacher
+Shradha Khapra
+
+# Student 
+Mayur Zope
