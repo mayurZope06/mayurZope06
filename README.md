@@ -42,7 +42,7 @@
 </p>
 
 ## 🧩 Coding Profiles
-- 📚 [LeetCode](https://leetcode.com/u/jrZ52t5mWl/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/06may/)
 
 ## 📬 Connect With Me
 
