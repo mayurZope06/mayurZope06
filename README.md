@@ -31,7 +31,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 ![Convex](https://img.shields.io/badge/Convex-blue?style=flat-square&logo=convex)
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=mayurZope06&theme=react&show_icons=true&hide_border=false&count_private=true" />
@@ -39,7 +39,18 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurZope06&theme=react&show_icons=true&hide_border=false&layout=compact" />
-</p>
+</p> -->
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mayurZope06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=mayurZope06&theme=tokyonight&hide_border=true)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayurZope06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🧩 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/06may/)
