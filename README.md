@@ -54,6 +54,7 @@
 
 ## 🧩 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/06may/)
+[![GFG](https://img.shields.io/badge/-GeeksForGeeks-2F9E44?style=for-the-badge&logo=GeeksForGeeks&logoColor=white)]([https://leetcode.com/u/06may/](https://www.geeksforgeeks.org/profile/zopemay4ieq?tab=activity))
 
 ## 📬 Connect With Me
 
