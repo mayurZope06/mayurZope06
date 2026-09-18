@@ -31,22 +31,19 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 ![Convex](https://img.shields.io/badge/Convex-blue?style=flat-square&logo=convex)
 
-<!--## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurZope06&theme=react&show_icons=true&hide_border=false&count_private=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurZope06&theme=react&show_icons=true&hide_border=false&layout=compact" />
-</p> -->
-
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mayurZope06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ![](https://streak-stats.demolab.com/?user=mayurZope06&theme=tokyonight&hide_border=true)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayurZope06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayurZope06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mayurZope06&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://streak-stats.demolab.com/?user=mayurZope06&theme=material-palenight&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayurZope06&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
