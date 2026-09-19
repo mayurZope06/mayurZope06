@@ -3,7 +3,7 @@
 - 🌱 Learning **DSA in C++**, **Full Stack Web Development** (MERN).
 - 👨‍💻 Exploring **AI/ML Concepts**.
    <!-- 👨‍💻 Full-stack developer with strong grip on **MERN Stack** and **Data Structures & Algorithms**.-->
-<!-- 📫 Reach me at **zopemayur666@gmail.com**-->
+<!-- 📫 Reach me at **zopemayur666@gmail.com**--> 
   
 ## 🛠️ Tech Stack
 
