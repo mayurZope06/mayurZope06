@@ -1,7 +1,7 @@
 ## 🚀 About Me
 - 🎓 Pursuing **B.E. in Computer Engineering**.
 - 🌱 Learning **DSA in C++**, **Full Stack Web Development** (MERN).
-- 👨‍💻 Exploring **AI Concepts**.
+- 👨‍💻 Exploring **AI Concepts for Software Engineering**.
    <!-- 👨‍💻 Full-stack developer with strong grip on **MERN Stack** and **Data Structures & Algorithms**.-->
 <!-- 📫 Reach me at **zopemayur666@gmail.com**--> 
   
